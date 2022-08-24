@@ -15,21 +15,21 @@ format:
     toc-depth: 4
 
 website:
-  title: "test_image_embed"
-  site-url: "https://hamelsmu.github.io/test_image_embed"
+  title: "test-image-embed"
+  site-url: "https://hamelsmu.github.io/test-image-embed"
   description: "Description: Test out IPython.display.Image(embed=True) in nbdev."
   twitter-card: true
   open-graph: true
   reader-mode: true
   repo-branch: master
-  repo-url: "https://github.com/hamelsmu/test_image_embed"
+  repo-url: "https://github.com/hamelsmu/test-image-embed"
   repo-actions: [issue]
   navbar:
     background: primary
     search: true
     right:
       - icon: github
-        href: "https://github.com/hamelsmu/test_image_embed"
+        href: "https://github.com/hamelsmu/test-image-embed"
   sidebar:
     style: "floating"
 
