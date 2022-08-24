@@ -15,7 +15,7 @@ format:
     toc-depth: 4
 
 website:
-  title: "test-image-embed"
+  title: "test_image_embed"
   site-url: "https://hamelsmu.github.io/test-image-embed"
   description: "Description: Test out IPython.display.Image(embed=True) in nbdev."
   twitter-card: true
